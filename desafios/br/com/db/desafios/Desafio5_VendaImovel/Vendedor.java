@@ -16,7 +16,7 @@ public class Vendedor {
 
     String resumo = """
                     Nome do vendedor: %s
-                    Porcentagem de comissão: 20
+                    Porcentagem de comissão: %d
                     Valor da venda: R$ %.2f
                     Valor da comissão: R$ %.2f
                     Total a receber: R$ %.2f
@@ -24,11 +24,11 @@ public class Vendedor {
 
     public void verificaComissao() {
         if (this.valor >= 50000.00) {
-            System.out.printf(resumo, this.nome, this.valor, calculaComissao(20.00), this.valor + calculaComissao(20.00));
-        } if (this.valor >= 30000.00) {
-            System.out.printf(resumo, this.nome, this.valor, calculaComissao(15.00), this.valor + calculaComissao(15.00));
+            System.out.printf(resumo, this.nome, 20, this.valor, calculaComissao(20.00), this.valor + calculaComissao(20.00));
+        } if (this.valor >= 30000.00 && this.valor < 50000.00) {
+            System.out.printf(resumo, this.nome, 15, this.valor, calculaComissao(15.00), this.valor + calculaComissao(15.00));
         } if (this.valor < 30000.00) {
-            System.out.printf(resumo, this.nome, this.valor, calculaComissao(10.00), this.valor + calculaComissao(10.00));
+            System.out.printf(resumo, this.nome, 10, this.valor, calculaComissao(10.00), this.valor + calculaComissao(10.00));
         }
     }
 }
