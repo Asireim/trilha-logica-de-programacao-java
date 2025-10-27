@@ -1,4 +1,4 @@
-package br.com.db.desafios.Desafio8_Tabuada;
+package br.com.db.desafios.desafio8_tabuada;
 
 import java.util.Scanner;
 

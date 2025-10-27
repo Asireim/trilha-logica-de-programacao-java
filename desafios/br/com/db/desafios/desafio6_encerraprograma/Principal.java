@@ -1,4 +1,4 @@
-package br.com.db.desafios.Desafio6_EncerraPrograma;
+package br.com.db.desafios.desafio6_encerraprograma;
 
 import java.util.Scanner;
 

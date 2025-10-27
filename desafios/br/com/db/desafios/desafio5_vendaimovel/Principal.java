@@ -1,4 +1,4 @@
-package br.com.db.desafios.Desafio5_VendaImovel;
+package br.com.db.desafios.desafio5_vendaimovel;
 
 import java.util.Scanner;
 

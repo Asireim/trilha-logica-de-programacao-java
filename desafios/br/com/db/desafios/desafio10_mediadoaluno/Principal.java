@@ -1,4 +1,4 @@
-package br.com.db.desafios.Desafio10_MediaDoAluno;
+package br.com.db.desafios.desafio10_mediadoaluno;
 
 import java.util.Scanner;
 

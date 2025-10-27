@@ -1,4 +1,4 @@
-package br.com.db.desafios.Desafio11_BloqueioDeUsuario;
+package br.com.db.desafios.desafio11_bloqueiodeusuario;
 
 import java.util.Scanner;
 

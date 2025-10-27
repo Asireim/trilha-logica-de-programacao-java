@@ -1,4 +1,4 @@
-package br.com.db.desafios.Desafio2_MercadoCompraComDesconto;
+package br.com.db.desafios.desafio2_mercadocompracomdesconto;
 
 public class Produto {
     private String nome;

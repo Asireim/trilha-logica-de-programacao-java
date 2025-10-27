@@ -1,4 +1,4 @@
-package br.com.db.desafios.Desafio12_ValoresImpares;
+package br.com.db.desafios.desafio12_valoresimpares;
 
 public class Principal {
     public static void main(String[] args) {

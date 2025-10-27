@@ -1,4 +1,4 @@
-package br.com.db.desafios.Desafio3_NotaFinalDoAluno;
+package br.com.db.desafios.desafio3_notafinaldoaluno;
 
 import java.util.Scanner;
 

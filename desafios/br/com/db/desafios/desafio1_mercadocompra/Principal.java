@@ -1,4 +1,4 @@
-package br.com.db.desafios.Desafio1_MercadoCompra;
+package br.com.db.desafios.desafio1_mercadocompra;
 
 import java.util.Scanner;
 

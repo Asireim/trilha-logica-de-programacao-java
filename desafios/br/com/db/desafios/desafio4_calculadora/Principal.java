@@ -1,4 +1,4 @@
-package br.com.db.desafios.Desafio4_Calculadora;
+package br.com.db.desafios.desafio4_calculadora;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package br.com.db.desafios.Desafio9_DivisaoDeValores;
+package br.com.db.desafios.desafio9_divisaodevalores;
 
 import java.util.Scanner;
 

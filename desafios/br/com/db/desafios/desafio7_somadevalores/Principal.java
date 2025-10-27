@@ -1,4 +1,4 @@
-package br.com.db.desafios.Desafio7_SomaDeValores;
+package br.com.db.desafios.desafio7_somadevalores;
 
 public class Principal {
     public static void main(String[] args) {
